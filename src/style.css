@@ -1,0 +1,43 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    font-family: 'Roboto Mono';
+}
+
+.main-container {
+    border: 9px solid whitesmoke;
+    box-shadow: 2px 2px black;
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 100px;
+    font-style: italic;
+}
+
+.generate-quotes {
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 10px 45px 10px 45px;
+    font-family: 'Roboto Mono';
+}
+
+.mini-container {
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.line {
+    border: 1px solid black;
+    width: 100%;
+    margin-top: 25px;
+}
+.social-icons {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
