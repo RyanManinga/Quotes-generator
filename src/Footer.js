@@ -4,11 +4,11 @@ const github = require('./images/github.png');
 const linkedin = require('./images/linkedin.png')
 
 export function Footer() {
-    const date = new Date().getFullYear();
+    const getYear = new Date().getFullYear();
     return(
         <>
             <div className='line'></div>
-            <p>Follow me on social media &copy;{date}</p>
+            <p>Follow me on social media &copy;{getYear}</p>
 
             <div className='social-icons'>
                 <div>
