@@ -6,7 +6,9 @@ class App extends React.Component {
     render() {
         return(
             <>
-                <Header />
+                <Header 
+                header = 'Random Quotes' //props make your components more reusable
+                />
                 <Card />
                 <Footer />
             </>

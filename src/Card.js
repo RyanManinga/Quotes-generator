@@ -1,10 +1,10 @@
 import React from 'react';
 import Quotes from './database';
 
-export function Header() {
+export function Header(props) {
     return(
         <>
-            <h1>Random Quotes</h1>
+            <h1>{props.header}</h1>
         </>
     );
 }

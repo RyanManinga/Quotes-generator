@@ -26,6 +26,7 @@ const Quotes = {
         {quote: 'Get Busy living or get busy dying -Stephen King-'},
     twelve: 
         {quote: 'In order to write about life, first you must live it -Ernest Hemingway-'},
+        
     thirteen: 
         {quote: 'Discipline makes you grow. Motivation keeps you going. That is Consistency'}
 
