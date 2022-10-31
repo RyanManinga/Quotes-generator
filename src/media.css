@@ -1,0 +1,10 @@
+@media screen and (max-width: 360px) {
+    .main-container {
+        width: 300px;
+        text-align: center;
+    }
+    
+    body {
+        font-size: 17px;
+    }
+}
