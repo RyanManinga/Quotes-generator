@@ -3,8 +3,11 @@
         width: 300px;
         text-align: center;
     }
-
+    h1 {
+        font-size: 19px;
+    }
+    
     body {
-        font-size: 17px;
+        font-size: 14px;
     }
 }
